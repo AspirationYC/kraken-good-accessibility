@@ -3,6 +3,14 @@ html {
   color: #222;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
+svg {
+  color: #fff;
+}
+
 .max-length {
   max-width: 42em;
 }
