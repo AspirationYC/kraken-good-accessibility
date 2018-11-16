@@ -74,4 +74,8 @@ svg {
     color: #000;
   }
 
+  .inset-img {
+    display: none;
+  }
+
 }
